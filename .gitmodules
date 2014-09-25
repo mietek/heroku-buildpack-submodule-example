@@ -1,0 +1,3 @@
+[submodule "heroku-buildpack-submodule-example-submodule"]
+	path = heroku-buildpack-submodule-example-submodule
+	url = https://github.com/mietek/heroku-buildpack-submodule-example-submodule.git

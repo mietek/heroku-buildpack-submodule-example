@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+echo '-----> Engaging submodule'
+
+cd $(dirname $0)/..
+unset GIT_DIR
+git submodule update --init --recursive
+
+heroku-buildpack-submodule-example-submodule/engage
