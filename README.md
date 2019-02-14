@@ -1,3 +1,10 @@
+-------------------------------------------------------------------------------
+
+This project is no longer maintained.
+
+-------------------------------------------------------------------------------
+
+
 _heroku-buildpack-submodule-example_
 ====================================
 
@@ -47,4 +54,4 @@ Submodule path 'heroku-buildpack-submodule-example-submodule': checked out 'e5b0
 About
 -----
 
-Made by [Miëtek Bak](https://mietek.io/).  Published under the [MIT X11 license](https://mietek.io/license/).
+Made by [Miëtek Bak](https://mietek.io/).  Published under the BSD license.
